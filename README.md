@@ -20,3 +20,7 @@ Run:
 ```shell
 docker run -it --rm -m 16g -v "$(pwd):/app" -p 8000:8000 --name asr_bot asr_bot:py310 bash
 ```
+
+Demo:
+https://github.com/user-attachments/assets/fde09938-1265-4ad2-943c-489ea734cb20
+
