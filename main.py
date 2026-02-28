@@ -73,8 +73,11 @@ def transcript(recognizer, wav_path):
 def combine_diar_asr_res(diar_res, asr_res):
     print("[TASK] Combining diarization + ASR...")
     output = []
-    for seg in diar_res:
+    for i, seg in enumerate(diar_res):
         start, end, speaker = float(seg["start"]), float(seg["end"]), str(seg["speaker"])
+
+        start, end = start + i * 60, end + i * 60
+
         tokens = [tok for tok, ts in zip(asr_res.result.tokens, asr_res.result.timestamps)
                   if start <= float(ts) <= end]
         text = "".join(tokens).strip()
@@ -194,7 +197,7 @@ async def audio2text(file: UploadFile = File(...)):
         res_txt = combine_diar_asr_res(diar_res, asr_res)
 
         with open(output_path, "a+") as f:
-            f.write(res_txt + "\n")
+            f.write(res_txt + "\n\n")
 
     with open(output_path, "r") as f:
         return {"result": f.read()}
