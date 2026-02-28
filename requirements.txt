@@ -1,0 +1,13 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+requests==2.32.3
+
+# Audio I/O
+soundfile==0.12.1
+numpy==1.26.4
+
+# Senko diarization (CPU extra)
+senko[cpu] @ git+https://github.com/narcotic-sh/senko.git
+
+# Vietnamese ASR (CPU) - needed to actually produce transcripts
+sherpa-onnx==1.10.46
