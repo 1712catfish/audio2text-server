@@ -1,0 +1,35 @@
+Customer    [00:00 - 00:01]   A lô
+Agent       [00:02 - 00:04]   Dạ vâng anh, chào anh. Liên hệ lại cho mình từ tổng đài vinfast anh ạ.
+Agent       [00:04 - 00:06]   Ủa anh, anh đặt (Ờ) VF5 đúng không anh?
+Customer    [00:04 - 00:05]   Ờ...
+Customer    [00:06 - 00:07]   Đúng rồi
+Customer    [00:10 - 00:11]   VF5 đấy
+Agent       [00:11 - 00:12]   Mình ở ngân hàng nào ạ?
+Customer    [00:13 - 00:14]   Ngân hàng ờ...
+Customer    [00:15 - 00:16]   Ờ...
+Customer    [00:17 - 00:18]   Cái gì nhở? ờ Việt Nam phát triển à?
+Agent       [00:21 - 00:24]   Việt Nam phát triển là ngân hàng gì hở anh?
+Customer    [00:24 - 00:25]   Về...
+Customer    [00:27 - 00:28]   Vê bê bănh hở? Vê bê bănh
+Agent       [00:29 - 00:34]   Em hỏi một chút đi. Em kiểm tra em thấy là Đê Cê... Vi ép em hở anh?
+Agent       [00:34 - 00:35]   Anh... Anh thuê sở hữu à?
+Customer    [00:36 - 00:39]   Anh... Anh mua... Anh mua sở hữu luôn mà.
+Agent       [00:40 - 00:42]   Anh mua sở hữu qua Vi ép em đúng hông anh?
+Customer    [00:43 - 00:44]   Về ờ, qua vê ép em, đúng rồi.
+Agent       [00:45 - 00:48]   Ờ thế vậy anh vui lòng liên hệ qua tổng đài là 1900 2097 giúp em nhá.
+Customer    [00:49 - 00:52]   Ờ cái xe này chạy ấy mà, xe này chạy dịch vụ mà.
+Customer    [00:53 - 00:54]   Nhưng mà anh mua, mua mua...
+Agent       [00:56 - 00:58]   Mua số qua vi ép em đúng không ạ? Thuê số qua vi ép...
+Customer    [00:58 - 00:59]   Đúng rồi.
+Agent       [00:59 - 00:62]   đúng không anh? Liên hệ qua 1900 2097 giúp em nhá.
+Customer    [00:60 - 00:60]   Ờ
+Customer    [00:63 - 00:64]   1900 bao nhiêu?
+Agent       [00:64 - 00:65]   2097 ạ.
+Customer    [00:66 - 00:68]   1900 2097 à?
+Agent       [00:69 - 00:69]   Đúng rồi ạ.
+Customer    [00:70 - 00:70]   Ô kê em.
+Agent       [00:70 - 00:71]   Vâng ạ.
+Agent       [00:71 - 00:72]   Chào anh.
+Customer    [00:72 - 00:72]   Ừm ừm ừm ừm
+
+ 
